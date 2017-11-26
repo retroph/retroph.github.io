@@ -18,8 +18,7 @@
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
 
         <section id="downloads">
-          <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
-          Find me
+          Find me on
           {% for a in site.data.accounts %}
           <a href="{{ a.url }}" class="btn"><img class="icon" src="/assets/{{ a.type }}.png"/>{{ a.desc }}</a>
           {% endfor %}

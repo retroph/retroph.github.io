@@ -2,6 +2,10 @@
   url: https://twitter.com/_RPH_
   desc: Twitter
 
+- type: discord
+  url: https://www.speedrun.com/user/retroph
+  desc: Discord
+
 - type: twitch
   url: https://twitch.tv/retroph
   desc: Twitch
@@ -13,7 +17,3 @@
 - type: src
   url: https://www.speedrun.com/user/retroph
   desc: Speedrun.com
-
-- type: discord
-  url: https://www.speedrun.com/user/retroph
-  desc: Discord
