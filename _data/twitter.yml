@@ -1,0 +1,12 @@
+# TODO: should generate JSON data file from NodeJS config module
+- name: SMSRuns
+  desc: Master System
+
+- name: SMSRuns
+  desc: PC Engine / TurboGrafx-16
+
+- name: NESRuns
+  desc: NES
+
+- name: SNESRuns
+  desc: SNES
