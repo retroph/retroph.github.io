@@ -1,8 +1,8 @@
 # TODO: should generate JSON data file from NodeJS config module
 - name: SMSRuns
-  desc: Master System
+  desc: Sega Master System
 
-- name: SMSRuns
+- name: PCERuns
   desc: PC Engine / TurboGrafx-16
 
 - name: NESRuns
