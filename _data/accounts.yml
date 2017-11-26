@@ -1,0 +1,19 @@
+- type: twitter
+  url: https://twitter.com/_RPH_
+  desc: Twitter
+
+- type: twitch
+  url: https://twitch.tv/retroph
+  desc: Twitch
+
+- type: srl
+  url: http://www.speedrunslive.com/profiles/#!/retroph
+  desc: SpeedRunsLive
+
+- type: src
+  url: https://www.speedrun.com/user/retroph
+  desc: Speedrun.com
+
+- type: discord
+  url: https://www.speedrun.com/user/retroph
+  desc: Discord
