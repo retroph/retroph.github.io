@@ -8,5 +8,5 @@
 - name: NESRuns
   desc: NES
 
-- name: SNESRuns
+- name: SNESRunsFeed
   desc: SNES
