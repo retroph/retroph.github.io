@@ -1,6 +1,7 @@
-## About
+# About
 
 
+# Projects
 ## Speedrun Stuff
 ### Discord Bots
 
