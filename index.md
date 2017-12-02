@@ -1,7 +1,7 @@
 # Projects
 ## Speedrun Stuff
 
-My current small project playing with the public [speedrun.com] [API](https://github.com/speedruncomorg/api): https://github.com/retroph/speedrun-watch
+My current small project playing with the public [Speedrun.com](https://www.speedrun.com/) [API](https://github.com/speedruncomorg/api): [https://github.com/retroph/speedrun-watch]
 
 [Bugs / Issue tracker](https://github.com/retroph/speedrun-watch/issues) - don't hesitate to report problems you see in posted runs, either there or directly on Twitter.
 
