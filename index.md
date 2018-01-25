@@ -18,7 +18,8 @@ Note: some runs for alternative platforms like VC are still missing, will be add
 
 ### Discord Bots
 
-- Sega Master System new submitted runs on the [MasterSystem.racing](http://mastersystem.racing/) Discord
+- Sega Master System new submitted runs on the [MasterSystem.racing](http://mastersystem.racing/) Discord server
+- Mega Drive / Genesis / Sega CD / 32X new submitted runs on the [Mega 16 Discord server](https://discord.gg/5TRErds)
 - Many retro platforms on my [personal Discord server](https://discord.gg/nrB5Fss)
 
 Just message me if you want a runs feed added to your discord channel!
